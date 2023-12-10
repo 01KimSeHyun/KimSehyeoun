@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Welcom%20I'm%20Sehyun&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Welcome!%20I'm%20Sehyun.&fontSize=60" />
 ### Hi there 👋
 
 <!--
