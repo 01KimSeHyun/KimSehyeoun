@@ -27,8 +27,4 @@ Here are some ideas to get you started:
 <img alt="KaKao" src ="https://img.shields.io/badge/Se.hyun__-%23FFCD00?style=for-the-badge&logo=KaKaoTalk&logoColor=white"/> <a href="https://www.instagram.com/ssehhyun_/" target="_blank"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <img alt="KaKao" src ="https://img.shields.io/badge/rla6170%40naver.com-%2303C75A?style=for-the-badge&logo=Naver&logoColor=black"/> 
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSehyeoun&show_icons=true&theme=radical)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?
-url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%23FFB6F3&title_bg=%23555555&icon=&
-icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
