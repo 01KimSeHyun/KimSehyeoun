@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Welcome!%20I'm%20Sehyun.&fontSize=60" />
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **KimSehyeoun/KimSehyeoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
