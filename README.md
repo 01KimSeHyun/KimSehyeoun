@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 ## 🤙 Contact
-<img alt="React" src ="[https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img alt="React" src ="https://img.shields.io/badge/Se.hyun__-%23FFCD00?style=for-the-badge&logo=KaKaoTalk&logoColor=white"/>
 
 
 
