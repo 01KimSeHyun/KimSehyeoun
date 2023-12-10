@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcom%20MyGit&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Welcom%20MyGit&fontSize=60" />
 ### Hi there 👋
 
 <!--
