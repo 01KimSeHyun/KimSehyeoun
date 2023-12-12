@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <img alt="KaKao" src ="https://img.shields.io/badge/Se.hyun__-%23FFCD00?style=for-the-badge&logo=KaKaoTalk&logoColor=white"/> <a href="https://www.instagram.com/ssehhyun_/" target="_blank"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <img alt="KaKao" src ="https://img.shields.io/badge/rla6170%40naver.com-%2303C75A?style=for-the-badge&logo=Naver&logoColor=black"/> 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSehyeoun&show_icons=true&theme=transparent) <a href="https://github.com/KimSehyeoun"><img style="height:600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimSehyeoun&layout=compact&theme=nord&hide_border=true" /></a> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSehyeoun&show_icons=true&theme=transparent)  <a href="https://github.com/KimSehyeoun"><img style="height:700" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimSehyeoun&layout=compact&theme=nord&hide_border=true" /></a> 
