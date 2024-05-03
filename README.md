@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 ## 🤙 Contact
 <img alt="KaKao" src ="https://img.shields.io/badge/Se.hyun__-%23FFCD00?style=for-the-badge&logo=KaKaoTalk&logoColor=white"/> <a href="https://www.instagram.com/ssehhyun_/" target="_blank"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <img alt="KaKao" src ="https://img.shields.io/badge/rla6170%40naver.com-%2303C75A?style=for-the-badge&logo=Naver&logoColor=black"/> 
 ## 🔧 Tool
+<img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
