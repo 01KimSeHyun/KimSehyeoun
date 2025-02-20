@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 ### 📖 I'm Learning
-<img src="https://img.shields.io/badge/react--query-FF4154?style=for-the-badge&logo=react query&logoColor=white"/> <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/react--query-FF4154?style=for-the-badge&logo=react query&logoColor=white"/> <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white"/>
 ## 🤙 Contact
 <img alt="KaKao" src ="https://img.shields.io/badge/Se.hyun__-%23FFCD00?style=for-the-badge&logo=KaKaoTalk&logoColor=white"/> <a href="https://www.instagram.com/ssehhyun_/" target="_blank"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <img alt="KaKao" src ="https://img.shields.io/badge/rla6170%40naver.com-%2303C75A?style=for-the-badge&logo=Naver&logoColor=black"/> 
 ## 🔧 Tool
